@@ -1,0 +1,92 @@
+﻿Field,Type,Meaning / function,Category
+all_awardings,list,List of award objects (empty if none),NA
+allow_live_comments,bool,Whether live comment threads are enabled,NA
+archived,bool,Whether post is archived (no new comments),NA
+author,string,Reddit username or “[deleted]”,Post ID
+author_created_utc,int/null,Account creation timestamp (UTC seconds),NA
+author_flair_background_color,string/null,Flair background color,NA
+author_flair_css_class,string/null,Legacy flair CSS class,NA
+author_flair_richtext,list,Structured flair content (text + styling),NA
+author_flair_template_id,string/null,Flair template ID,NA
+author_flair_text,string/null,Plain flair text,NA
+author_flair_text_color,string/null,Flair text color,NA
+author_flair_type,string,"Type of flair (""text"", etc.)",NA
+author_fullname,string,Reddit internal user ID (t2_...),NA
+author_patreon_flair,bool,Whether Patreon flair is enabled,NA
+author_premium,bool,Reddit Premium status,NA
+awarders,list,Users who awarded content,NA
+banned_by,null,Moderator/admin ban info,NA
+can_gild,bool,Whether post can receive gilding,NA
+can_mod_post,bool,Moderator post permissions,Post ID
+category,null,Legacy category field,NA
+content_categories,null,Reddit content taxonomy,NA
+contest_mode,bool,Hides voting scores for contests,NA
+created_utc,int,Post creation time (UTC epoch),Time
+discussion_type,null,Type of discussion thread,NA
+distinguished,null,Mod/admin distinction status,Post ID
+domain,string/null,"Source domain (reddit.com, self, etc.)",NA
+edited,bool/float,False or timestamp if edited,NA
+gilded,int,Number of gold awards,NA
+gildings,dict,Breakdown of awards,NA
+hidden,bool,Whether user hid post,NA
+hide_score,bool,Whether score is hidden,NA
+id,string,Reddit base36 post ID,Post ID
+is_created_from_ads_ui,bool,Created via ads interface,NA
+is_crosspostable,bool,Whether post can be crossposted,NA
+is_gallery,bool,Whether post is image gallery,Content
+is_meta,bool,Meta subreddit post,NA
+is_original_content,bool,OC flag,NA
+is_reddit_media_domain,bool,Hosted on Reddit media,Content
+is_robot_indexable,bool,Indexing permission,NA
+is_self,bool,Text post or not,Content
+is_video,bool,Video post flag,Content
+link_flair_background_color,string,Flair background color,NA
+link_flair_css_class,string/null,Flair CSS class,NA
+link_flair_richtext,list,Structured link flair,NA
+link_flair_text,string/null,Flair text,Content
+link_flair_text_color,string,Flair text color,NA
+link_flair_type,string,Flair type,NA
+locked,bool,Comments locked,NA
+media,object/null,Embedded media object,Content
+media_embed,dict,Embedded media rendering info,Content
+media_metadata,dict,Image/video metadata (gallery),Content
+media_only,bool,Media-only post,Content
+name,string,Fullname (t3_...),NA
+no_follow,bool,Prevent search engine from following,NA
+num_comments,int,Comment count,Engagement
+num_crossposts,int,Crosspost count,Engagement
+over_18,bool,NSFW flag,Post ID
+parent_whitelist_status,string,Ad whitelist status,NA
+permalink,string,Reddit URL path,Post ID
+pinned,bool,Stickied/pinned post,NA
+pwls,int,Whitelist score,NA
+quarantine,bool,Quarantined subreddit,NA
+removed_by,null/string,Removal source,Post ID
+removed_by_category,null/string,Removal reason,Post ID
+retrieved_on,int,Pushshift ingestion time,Time
+score,int,net Upvotes minus downvotes,Engagement
+secure_media,object/null,Secure embed media,NA
+secure_media_embed,dict,Secure embed info,NA
+selftext,string,Text body of post,Content
+send_replies,bool,Email/comment reply notifications,NA
+spoiler,bool,Spoiler tag,NA
+stickied,bool,Moderation sticky,NA
+subreddit,string,Subreddit name,Post ID
+subreddit_id,string,Subreddit internal ID,Post ID
+subreddit_name_prefixed,string,r/subreddit format,NA
+subreddit_subscribers,int,Subscriber count,NA
+subreddit_type,string,public/private/restricted,NA
+suggested_sort,null/string,Sort method suggestion,NA
+thumbnail,string,Preview image,NA
+thumbnail_height,int,Thumbnail height,NA
+thumbnail_width,int,Thumbnail width,NA
+title,string,Post title,Content
+top_awarded_type,null,Award category,NA
+total_awards_received,int,Total awards,NA
+treatment_tags,list,Content classification tags,NA
+upvote_ratio,float,Ratio of upvotes,Engagement
+url,string,Post URL,NA
+url_overridden_by_dest,string,Redirected URL,NA
+view_count,null,View count (often null),NA
+whitelist_status,string,Monetization status,NA
+wls,int,Whitelist level,NA

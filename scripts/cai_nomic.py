@@ -3,7 +3,7 @@ from nomic import AtlasDataset
 
 def load_nomic_dataset(dataset_name="auth0thread765/all-cai-characters-"):
     """
-    Load Character.AI dataset from Nomic Atlas and return the DataFrame.
+    Load the publicly available Character.AI dataset from Nomic Atlas and return the DataFrame.
     """
     dataset = AtlasDataset(dataset_name)
     atlas_map = dataset.maps[0]

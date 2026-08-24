@@ -1,6 +1,4 @@
-# Character.AI BTS Corpus Dataset Structure Report
-
-**Generated:** 2026-07-14 15:12:03
+# Nomic Atlas Character.AI Dataset Structure Report
 
 ---
 
@@ -15,7 +13,7 @@
 
 ## Column Schema
 
-The following table provides an overview of the variables available in the Character.AI dataset and their corresponding data types.
+The following table provides an overview of the variables available in the Character.AI Nomic Atlas dataset and their corresponding data types.
 
 | Column Name          | Data Type   |
 |:---------------------|:------------|
@@ -25,14 +23,14 @@ The following table provides an overview of the variables available in the Chara
 | interactions         | int32       |
 | categories           | category    |
 | language             | category    |
-| expertise            | str         |
-| avatar               | str         |
-| external_id          | str         |
-| greeting             | str         |
-| participant          | object      |
-| personality_answer   | object      |
-| creator              | object      |
-| description          | str         |
 | name                 | str         |
+| description          | str         |
+| participant          | object      |
+| expertise            | str         |
+| creator              | object      |
+| external_id          | str         |
+| avatar               | str         |
+| greeting             | str         |
+| personality_answer   | object      |
 
 

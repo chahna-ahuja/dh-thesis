@@ -1,0 +1,26 @@
+{
+  "grid": {
+    "n_neighbors": [
+      10,
+      15,
+      30,
+      50
+    ],
+    "min_dist": [
+      0.0,
+      0.1
+    ],
+    "n_components": [
+      5,
+      10,
+      15
+    ]
+  },
+  "probe_hdbscan": {
+    "min_cluster_size": 25,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom"
+  },
+  "n_jobs": 1
+}

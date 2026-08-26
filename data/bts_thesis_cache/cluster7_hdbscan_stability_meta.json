@@ -1,0 +1,20 @@
+{
+  "cluster": 7,
+  "configs": [
+    {
+      "min_cluster_size": 15,
+      "min_samples": 10
+    },
+    {
+      "min_cluster_size": 20,
+      "min_samples": 10
+    },
+    {
+      "min_cluster_size": 20,
+      "min_samples": 15
+    }
+  ],
+  "repeats": 3,
+  "metric": "euclidean",
+  "validation": "DBCV"
+}

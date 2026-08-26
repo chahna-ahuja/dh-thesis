@@ -1,0 +1,10 @@
+{
+  "min_cluster_size": 25,
+  "min_samples": 5,
+  "dbcv": 0.5685084690123503,
+  "noise_ratio": 0.2156917885264342,
+  "n_clusters": 19,
+  "min_persistence": 0.03158809095095524,
+  "mean_persistence": 0.24751467281353629,
+  "selection_rule": "sorted by dbcv desc, then min_persistence desc; top row of hdbscan_clean"
+}

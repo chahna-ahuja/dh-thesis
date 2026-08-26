@@ -1,0 +1,5 @@
+{
+  "cluster": 7,
+  "embedding": "15D UMAP",
+  "metric": "euclidean"
+}

@@ -1,6 +1,0 @@
-{
-  "purpose": "visualization_only",
-  "n_neighbors": 15,
-  "min_dist": 0.1,
-  "n_components": 2
-}

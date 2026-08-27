@@ -1,0 +1,138 @@
+
+# DH Thesis - Python Dependencies
+
+# These packages support the notebooks and scripts for the
+# digital humanities thesis analysis.
+#
+# Python version recommendation:
+# Python 3.10 or 3.11
+#
+# If using Google Colab, most scientific Python packages are
+# already installed. You may still run:
+#
+#     pip install -r requirements.txt
+#
+# in a Colab cell if needed.
+#
+# Note: The notebooks may also contain notebook-specific
+# commands such as "!pip install". These can be removed when
+# running the project in a properly configured local
+# environment.
+
+
+
+# Core scientific computing and data handling
+numpy
+pandas
+
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+kaleido
+
+
+# Statistical analysis
+scipy
+
+
+# Word clouds
+wordcloud
+
+
+# Image handling and manipulation
+Pillow
+
+
+# Natural language processing
+spacy
+
+
+# Machine learning
+scikit-learn
+
+
+# Sentence embeddings and transformer-based NLP
+sentence-transformers
+torch
+
+
+# Dimensionality reduction
+umap-learn
+
+
+# Density-based clustering
+hdbscan
+
+
+# Progress bars
+tqdm
+
+
+# Network analysis
+networkx
+python-igraph
+leidenalg
+python-louvain
+
+
+# Force-directed network visualization
+fa2
+
+
+# Nomic Atlas
+nomic
+
+
+# Environment variables
+python-dotenv
+
+
+# SPARQL queries
+SPARQLWrapper
+
+
+# Jupyter / IPython notebook support
+ipython
+
+
+
+# Environment Variables
+# 
+# Nomic Atlas access requires an API key.
+# More details in README of this repository
+#
+# The project uses python-dotenv to load the key from a local
+# .env file.
+#
+# Create a file named:
+#
+#     .env
+#
+# in the project root and add:
+#
+#     NOMIC_API_KEY=your_api_key_here
+#
+#
+# The .env file is a local configuration file of author's API key and is not
+# included in this repository.
+
+
+# Optional / environment-specific dependencies
+
+# Google Colab provides these packages automatically in most
+# notebook environments:
+#
+#     google-colab
+#
+# The project contains:
+#
+#     from google.colab import drive, file
+#
+# This import is only required when running the relevant
+# notebook in Google Colab. It should NOT be installed with
+# pip in a normal local Python environment.
+#
+# If running locally, remove or replace the Google Colab
+# specific code.

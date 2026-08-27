@@ -1,0 +1,23 @@
+{
+  "mcs_grid": [
+    10,
+    15,
+    20,
+    25,
+    30,
+    40,
+    45,
+    60
+  ],
+  "ms_grid": [
+    1,
+    5,
+    10,
+    15
+  ],
+  "umap_config": {
+    "n_neighbors": 15,
+    "min_dist": 0.0,
+    "n_components": 15
+  }
+}

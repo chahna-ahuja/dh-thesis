@@ -1,0 +1,1818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-07">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="edge_type" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="size" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Community_0" label="C0">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="700.0" />
+        </attvalues>
+      </node>
+      <node id="Community_1" label="C1">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="695.0" />
+        </attvalues>
+      </node>
+      <node id="Community_2" label="C2">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="850.0" />
+        </attvalues>
+      </node>
+      <node id="Community_3" label="C3">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="785.0" />
+        </attvalues>
+      </node>
+      <node id="Community_4" label="C4">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="410.0" />
+        </attvalues>
+      </node>
+      <node id="Community_5" label="C5">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="480.0" />
+        </attvalues>
+      </node>
+      <node id="Community_6" label="C6">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="555.0" />
+        </attvalues>
+      </node>
+      <node id="Community_7" label="C7">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="605.0" />
+        </attvalues>
+      </node>
+      <node id="Community_8" label="C8">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="345.0" />
+        </attvalues>
+      </node>
+      <node id="Community_9" label="C9">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="580.0" />
+        </attvalues>
+      </node>
+      <node id="Community_10" label="C10">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="310.0" />
+        </attvalues>
+      </node>
+      <node id="Community_11" label="C11">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="210.0" />
+        </attvalues>
+      </node>
+      <node id="Community_12" label="C12">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="285.0" />
+        </attvalues>
+      </node>
+      <node id="Community_13" label="C13">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="160.0" />
+        </attvalues>
+      </node>
+      <node id="Community_14" label="C14">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="135.0" />
+        </attvalues>
+      </node>
+      <node id="Community_15" label="C15">
+        <attvalues>
+          <attvalue for="0" value="community" />
+          <attvalue for="1" value="200.0" />
+        </attvalues>
+      </node>
+      <node id="Member_jungkook" label="jungkook">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="1419.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Cute" label="Cute">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="370" />
+        </attvalues>
+      </node>
+      <node id="Member_yoongi" label="yoongi">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="855.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Assassin" label="Assassin">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="42" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_University Student" label="University Student">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="64" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Alpha" label="Alpha">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="82" />
+        </attvalues>
+      </node>
+      <node id="Member_taehyung" label="taehyung">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="525.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Top" label="Top">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="220" />
+        </attvalues>
+      </node>
+      <node id="Member_hoseok" label="hoseok">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="369.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Bodyguard" label="Bodyguard">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="106" />
+        </attvalues>
+      </node>
+      <node id="Member_jimin" label="jimin">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="708.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Bad Boy" label="Bad Boy">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="42" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Sub" label="Sub">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="282" />
+        </attvalues>
+      </node>
+      <node id="Member_namjoon" label="namjoon">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="210.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Sad" label="Sad">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Adorable" label="Adorable">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="68" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Dom" label="Dom">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="696" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Soft" label="Soft">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="242" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Prince" label="Prince">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="Member_seokjin" label="seokjin">
+        <attvalues>
+          <attvalue for="0" value="member" />
+          <attvalue for="1" value="297.0" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Wolf Shifter" label="Wolf Shifter">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="96" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Jealous" label="Jealous">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="36" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_CEO" label="CEO">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="38" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Dancer" label="Dancer">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="58" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Professor" label="Professor">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Minor" label="Minor">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="42" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Rich" label="Rich">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Hybrid" label="Hybrid">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="34" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Bottom" label="Bottom">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="54" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Producer" label="Producer">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Artist" label="Artist">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Sweet" label="Sweet">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="68" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Idol" label="Idol">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Soft Dom" label="Soft Dom">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="32" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Underground Rapper" label="Underground Rapper">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Switch" label="Switch">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Oberon" label="Oberon">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Funny" label="Funny">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Yandere" label="Yandere">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Police Officer" label="Police Officer">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Prisoner" label="Prisoner">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Actor" label="Actor">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Baby Boy" label="Baby Boy">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Supportive" label="Supportive">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Vampire" label="Vampire">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="36" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Shy" label="Shy">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Fae" label="Fae">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Descriptor_Gryffindor" label="Gryffindor">
+        <attvalues>
+          <attvalue for="0" value="descriptor" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Community_0" target="Member_jungkook" id="0" weight="50">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Cute" id="1" weight="31">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Member_yoongi" id="2" weight="41">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Assassin" id="3" weight="21">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_University Student" id="4" weight="20">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Alpha" id="5" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Member_taehyung" id="6" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Top" id="7" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Member_hoseok" id="8" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Bodyguard" id="9" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Member_jimin" id="10" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Bad Boy" id="11" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Sub" id="12" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Member_namjoon" id="13" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Sad" id="14" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_0" target="Descriptor_Adorable" id="15" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_jungkook" id="16" weight="51">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Descriptor_Cute" id="17" weight="28">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Descriptor_Dom" id="18" weight="73">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_taehyung" id="19" weight="30">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Descriptor_Top" id="20" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_jimin" id="21" weight="21">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_yoongi" id="22" weight="20">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Descriptor_Soft" id="23" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_hoseok" id="24" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Descriptor_Prince" id="25" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_1" target="Member_seokjin" id="26" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_yoongi" id="27" weight="66">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Wolf Shifter" id="28" weight="36">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Soft" id="29" weight="38">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_jungkook" id="30" weight="49">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Cute" id="31" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Alpha" id="32" weight="22">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_taehyung" id="33" weight="25">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Adorable" id="34" weight="15">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Jealous" id="35" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_jimin" id="36" weight="17">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_CEO" id="37" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_hoseok" id="38" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Dancer" id="39" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Member_namjoon" id="40" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_2" target="Descriptor_Professor" id="41" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_jungkook" id="42" weight="49">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Descriptor_Dom" id="43" weight="107">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_hoseok" id="44" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_taehyung" id="45" weight="32">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Descriptor_Top" id="46" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_jimin" id="47" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Descriptor_Sub" id="48" weight="23">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_yoongi" id="49" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Member_namjoon" id="50" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_3" target="Descriptor_Minor" id="51" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_jungkook" id="52" weight="23">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_University Student" id="53" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Top" id="54" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_yoongi" id="55" weight="17">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Soft" id="56" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_hoseok" id="57" weight="15">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Dancer" id="58" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_jimin" id="59" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Cute" id="60" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Bodyguard" id="61" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_seokjin" id="62" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Rich" id="63" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Hybrid" id="64" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Member_taehyung" id="65" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_4" target="Descriptor_Adorable" id="66" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Member_jungkook" id="67" weight="28">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Descriptor_Sub" id="68" weight="36">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Member_jimin" id="69" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Descriptor_Bottom" id="70" weight="13">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Descriptor_Dom" id="71" weight="33">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Member_seokjin" id="72" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Descriptor_Top" id="73" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Member_namjoon" id="74" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Member_yoongi" id="75" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_5" target="Descriptor_Producer" id="76" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_jungkook" id="77" weight="30">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Cute" id="78" weight="23">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_hoseok" id="79" weight="20">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Bodyguard" id="80" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_yoongi" id="81" weight="25">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Soft" id="82" weight="15">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_jimin" id="83" weight="21">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Bad Boy" id="84" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_CEO" id="85" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Minor" id="86" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_seokjin" id="87" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Rich" id="88" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Member_taehyung" id="89" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_6" target="Descriptor_Adorable" id="90" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Member_jungkook" id="91" weight="39">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Sub" id="92" weight="46">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Member_jimin" id="93" weight="23">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Dom" id="94" weight="28">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Member_seokjin" id="95" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Member_yoongi" id="96" weight="24">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Soft" id="97" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Wolf Shifter" id="98" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Member_taehyung" id="99" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Hybrid" id="100" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Top" id="101" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_7" target="Descriptor_Bottom" id="102" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_jungkook" id="103" weight="27">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Dom" id="104" weight="31">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Top" id="105" weight="13">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_yoongi" id="106" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Soft" id="107" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_jimin" id="108" weight="12">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Artist" id="109" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_namjoon" id="110" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Sweet" id="111" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_seokjin" id="112" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Member_hoseok" id="113" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_8" target="Descriptor_Dancer" id="114" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Member_jungkook" id="115" weight="47">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Dom" id="116" weight="45">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Cute" id="117" weight="21">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Member_yoongi" id="118" weight="23">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Soft" id="119" weight="13">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Member_jimin" id="120" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Sub" id="121" weight="19">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Member_namjoon" id="122" weight="14">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Member_seokjin" id="123" weight="13">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Sweet" id="124" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Idol" id="125" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_9" target="Descriptor_Bottom" id="126" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_jungkook" id="127" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Dom" id="128" weight="26">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_taehyung" id="129" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Soft Dom" id="130" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_yoongi" id="131" weight="13">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Underground Rapper" id="132" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_hoseok" id="133" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Dancer" id="134" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_jimin" id="135" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Switch" id="136" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Member_namjoon" id="137" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_10" target="Descriptor_Sweet" id="138" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_jungkook" id="139" weight="14">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Cute" id="140" weight="15">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_jimin" id="141" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_seokjin" id="142" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Sweet" id="143" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_hoseok" id="144" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Top" id="145" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Soft" id="146" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Minor" id="147" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_namjoon" id="148" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Oberon" id="149" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Member_taehyung" id="150" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Funny" id="151" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Jealous" id="152" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_11" target="Descriptor_Bad Boy" id="153" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_jungkook" id="154" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Cute" id="155" weight="16">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_taehyung" id="156" weight="11">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Yandere" id="157" weight="15">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Bodyguard" id="158" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_seokjin" id="159" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Sweet" id="160" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_jimin" id="161" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Police Officer" id="162" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Prisoner" id="163" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_namjoon" id="164" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_yoongi" id="165" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Soft" id="166" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Member_hoseok" id="167" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_12" target="Descriptor_Jealous" id="168" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Member_jimin" id="169" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Cute" id="170" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Member_jungkook" id="171" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Sub" id="172" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Actor" id="173" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Baby Boy" id="174" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Member_seokjin" id="175" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Hybrid" id="176" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Member_taehyung" id="177" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Jealous" id="178" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Supportive" id="179" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Member_yoongi" id="180" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Idol" id="181" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_13" target="Descriptor_Producer" id="182" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Member_jungkook" id="183" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Descriptor_Vampire" id="184" weight="18">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Member_hoseok" id="185" weight="9">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Descriptor_Top" id="186" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Member_yoongi" id="187" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Member_taehyung" id="188" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Descriptor_Bottom" id="189" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Descriptor_Shy" id="190" weight="1">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_14" target="Descriptor_Fae" id="191" weight="1">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_jungkook" id="192" weight="14">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Cute" id="193" weight="10">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Bodyguard" id="194" weight="6">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_jimin" id="195" weight="8">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Dancer" id="196" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Gryffindor" id="197" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_seokjin" id="198" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Sweet" id="199" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_taehyung" id="200" weight="7">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Top" id="201" weight="4">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Dom" id="202" weight="5">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_yoongi" id="203" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Descriptor_Soft" id="204" weight="3">
+        <attvalues>
+          <attvalue for="2" value="community_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_hoseok" id="205" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Community_15" target="Member_namjoon" id="206" weight="2">
+        <attvalues>
+          <attvalue for="2" value="community_member" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Cute" id="207" weight="155">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Alpha" id="208" weight="41">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Dom" id="209" weight="135">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Sub" id="210" weight="61">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_University Student" id="211" weight="12">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Top" id="212" weight="24">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Bodyguard" id="213" weight="24">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Soft Dom" id="214" weight="7">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Soft" id="215" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Baby Boy" id="216" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Vampire" id="217" weight="6">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jungkook" target="Descriptor_Shy" id="218" weight="1">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Cute" target="Member_jimin" id="219" weight="19">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Cute" target="Member_hoseok" id="220" weight="7">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Cute" target="Member_seokjin" id="221" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Assassin" id="222" weight="21">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_University Student" id="223" weight="20">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Soft" id="224" weight="109">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Dom" id="225" weight="40">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Wolf Shifter" id="226" weight="48">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Hybrid" id="227" weight="6">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Producer" id="228" weight="7">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Minor" id="229" weight="10">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Sub" id="230" weight="10">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Underground Rapper" id="231" weight="6">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Idol" id="232" weight="2">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Vampire" id="233" weight="5">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_yoongi" target="Descriptor_Fae" id="234" weight="1">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Top" id="235" weight="60">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Adorable" id="236" weight="34">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Dom" id="237" weight="28">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Jealous" id="238" weight="15">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Hybrid" id="239" weight="8">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Soft Dom" id="240" weight="9">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Funny" id="241" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Yandere" id="242" weight="11">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Supportive" id="243" weight="2">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Vampire" id="244" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_taehyung" target="Descriptor_Bottom" id="245" weight="2">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Top" target="Member_jimin" id="246" weight="8">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Top" target="Member_seokjin" id="247" weight="9">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Top" target="Member_hoseok" id="248" weight="9">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Bodyguard" id="249" weight="29">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Dom" id="250" weight="35">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Dancer" id="251" weight="25">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Minor" id="252" weight="11">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Jealous" id="253" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_hoseok" target="Descriptor_Vampire" id="254" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Bad Boy" id="255" weight="21">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Sub" id="256" weight="49">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Dom" id="257" weight="62">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Prince" id="258" weight="9">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_CEO" id="259" weight="19">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Soft" id="260" weight="8">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Bottom" id="261" weight="13">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Artist" id="262" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Switch" id="263" weight="5">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Police Officer" id="264" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Prisoner" id="265" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Actor" id="266" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Dancer" id="267" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_jimin" target="Descriptor_Gryffindor" id="268" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Sub" target="Member_namjoon" id="269" weight="6">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Sub" target="Member_seokjin" id="270" weight="15">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Sad" id="271" weight="7">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Professor" id="272" weight="5">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Dom" id="273" weight="32">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Sweet" id="274" weight="8">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Idol" id="275" weight="5">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Oberon" id="276" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_namjoon" target="Descriptor_Yandere" id="277" weight="4">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Descriptor_Dom" target="Member_seokjin" id="278" weight="16">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_seokjin" target="Descriptor_Rich" id="279" weight="14">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_seokjin" target="Descriptor_Bottom" id="280" weight="12">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_seokjin" target="Descriptor_Sweet" id="281" weight="26">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+      <edge source="Member_seokjin" target="Descriptor_Hybrid" id="282" weight="3">
+        <attvalues>
+          <attvalue for="2" value="member_descriptor" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

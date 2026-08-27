@@ -1,0 +1,145 @@
+model_id_1,model_id_2,rating,edge_weight,resolution,algorithm_1,algorithm_2,ARI,dataset
+1,2,General Audiences,1,1.0,Louvain,Leiden,0.35537832637420436,ARI Stability Results
+3,4,General Audiences,1,1.5,Louvain,Leiden,0.5622322558418,ARI Stability Results
+5,6,General Audiences,1,2.0,Louvain,Leiden,0.6404828817959035,ARI Stability Results
+7,8,General Audiences,1,2.5,Louvain,Leiden,0.6655458764689218,ARI Stability Results
+9,10,General Audiences,1,3.0,Louvain,Leiden,0.5959070995848224,ARI Stability Results
+11,12,General Audiences,1,3.5,Louvain,Leiden,0.7219949992755156,ARI Stability Results
+13,14,General Audiences,2,1.0,Louvain,Leiden,0.7741258291179653,ARI Stability Results
+15,16,General Audiences,2,1.5,Louvain,Leiden,0.793196919870986,ARI Stability Results
+17,18,General Audiences,2,2.0,Louvain,Leiden,0.8470310870123762,ARI Stability Results
+19,20,General Audiences,2,2.5,Louvain,Leiden,0.878719967019783,ARI Stability Results
+21,22,General Audiences,2,3.0,Louvain,Leiden,0.9092577792220339,ARI Stability Results
+23,24,General Audiences,2,3.5,Louvain,Leiden,0.9533567502811456,ARI Stability Results
+25,26,General Audiences,3,1.0,Louvain,Leiden,0.9215284766674772,ARI Stability Results
+27,28,General Audiences,3,1.5,Louvain,Leiden,0.9739047691123716,ARI Stability Results
+29,30,General Audiences,3,2.0,Louvain,Leiden,0.9384047978978366,ARI Stability Results
+31,32,General Audiences,3,2.5,Louvain,Leiden,0.9386597754502481,ARI Stability Results
+33,34,General Audiences,3,3.0,Louvain,Leiden,0.9742347464410945,ARI Stability Results
+35,36,General Audiences,3,3.5,Louvain,Leiden,0.9884341510970731,ARI Stability Results
+37,38,General Audiences,4,1.0,Louvain,Leiden,1.0,ARI Stability Results
+39,40,General Audiences,4,1.5,Louvain,Leiden,0.9405049409172438,ARI Stability Results
+41,42,General Audiences,4,2.0,Louvain,Leiden,0.9700777967688216,ARI Stability Results
+43,44,General Audiences,4,2.5,Louvain,Leiden,0.9904469572861047,ARI Stability Results
+45,46,General Audiences,4,3.0,Louvain,Leiden,1.0,ARI Stability Results
+47,48,General Audiences,4,3.5,Louvain,Leiden,0.519560006922968,ARI Stability Results
+49,50,General Audiences,5,1.0,Louvain,Leiden,0.5078583964920795,ARI Stability Results
+51,52,General Audiences,5,1.5,Louvain,Leiden,1.0,ARI Stability Results
+53,54,General Audiences,5,2.0,Louvain,Leiden,0.955717706932421,ARI Stability Results
+55,56,General Audiences,5,2.5,Louvain,Leiden,0.9875855066031539,ARI Stability Results
+57,58,General Audiences,5,3.0,Louvain,Leiden,1.0,ARI Stability Results
+59,60,General Audiences,5,3.5,Louvain,Leiden,0.7318523919511432,ARI Stability Results
+61,62,General Audiences,6,1.0,Louvain,Leiden,0.7824574997002149,ARI Stability Results
+63,64,General Audiences,6,1.5,Louvain,Leiden,1.0,ARI Stability Results
+65,66,General Audiences,6,2.0,Louvain,Leiden,1.0,ARI Stability Results
+67,68,General Audiences,6,2.5,Louvain,Leiden,0.9911063592548167,ARI Stability Results
+69,70,General Audiences,6,3.0,Louvain,Leiden,1.0,ARI Stability Results
+71,72,General Audiences,6,3.5,Louvain,Leiden,0.954482446268288,ARI Stability Results
+73,74,Teen And Up Audiences,1,1.0,Louvain,Leiden,0.46828057065487716,ARI Stability Results
+75,76,Teen And Up Audiences,1,1.5,Louvain,Leiden,0.5737027487394991,ARI Stability Results
+77,78,Teen And Up Audiences,1,2.0,Louvain,Leiden,0.5474660063157659,ARI Stability Results
+79,80,Teen And Up Audiences,1,2.5,Louvain,Leiden,0.5517903140590915,ARI Stability Results
+81,82,Teen And Up Audiences,1,3.0,Louvain,Leiden,0.5895471225001647,ARI Stability Results
+83,84,Teen And Up Audiences,1,3.5,Louvain,Leiden,0.5864076013714844,ARI Stability Results
+85,86,Teen And Up Audiences,2,1.0,Louvain,Leiden,0.7289181328311515,ARI Stability Results
+87,88,Teen And Up Audiences,2,1.5,Louvain,Leiden,0.6326767101654703,ARI Stability Results
+89,90,Teen And Up Audiences,2,2.0,Louvain,Leiden,0.7347403288699257,ARI Stability Results
+91,92,Teen And Up Audiences,2,2.5,Louvain,Leiden,0.7872195474064017,ARI Stability Results
+93,94,Teen And Up Audiences,2,3.0,Louvain,Leiden,0.8503955241975609,ARI Stability Results
+95,96,Teen And Up Audiences,2,3.5,Louvain,Leiden,0.877954388893612,ARI Stability Results
+97,98,Teen And Up Audiences,3,1.0,Louvain,Leiden,0.9094860308467738,ARI Stability Results
+99,100,Teen And Up Audiences,3,1.5,Louvain,Leiden,0.840768319073052,ARI Stability Results
+101,102,Teen And Up Audiences,3,2.0,Louvain,Leiden,0.8607066940308433,ARI Stability Results
+103,104,Teen And Up Audiences,3,2.5,Louvain,Leiden,0.9066111630899235,ARI Stability Results
+105,106,Teen And Up Audiences,3,3.0,Louvain,Leiden,0.9170942352625768,ARI Stability Results
+107,108,Teen And Up Audiences,3,3.5,Louvain,Leiden,0.9269630092613156,ARI Stability Results
+109,110,Teen And Up Audiences,4,1.0,Louvain,Leiden,0.7341448885451703,ARI Stability Results
+111,112,Teen And Up Audiences,4,1.5,Louvain,Leiden,0.8507901833452607,ARI Stability Results
+113,114,Teen And Up Audiences,4,2.0,Louvain,Leiden,0.9168396485611809,ARI Stability Results
+115,116,Teen And Up Audiences,4,2.5,Louvain,Leiden,0.9131854221161637,ARI Stability Results
+117,118,Teen And Up Audiences,4,3.0,Louvain,Leiden,0.9683870631822473,ARI Stability Results
+119,120,Teen And Up Audiences,4,3.5,Louvain,Leiden,0.9795432460440116,ARI Stability Results
+121,122,Teen And Up Audiences,5,1.0,Louvain,Leiden,0.856800333405265,ARI Stability Results
+123,124,Teen And Up Audiences,5,1.5,Louvain,Leiden,0.8545736534739884,ARI Stability Results
+125,126,Teen And Up Audiences,5,2.0,Louvain,Leiden,0.9770660646508638,ARI Stability Results
+127,128,Teen And Up Audiences,5,2.5,Louvain,Leiden,0.9936593368108676,ARI Stability Results
+129,130,Teen And Up Audiences,5,3.0,Louvain,Leiden,0.9668257644748285,ARI Stability Results
+131,132,Teen And Up Audiences,5,3.5,Louvain,Leiden,0.9738162965282671,ARI Stability Results
+133,134,Teen And Up Audiences,6,1.0,Louvain,Leiden,0.734392672389817,ARI Stability Results
+135,136,Teen And Up Audiences,6,1.5,Louvain,Leiden,0.9829011532410309,ARI Stability Results
+137,138,Teen And Up Audiences,6,2.0,Louvain,Leiden,1.0,ARI Stability Results
+139,140,Teen And Up Audiences,6,2.5,Louvain,Leiden,0.9910537163216708,ARI Stability Results
+141,142,Teen And Up Audiences,6,3.0,Louvain,Leiden,0.9570625537411214,ARI Stability Results
+143,144,Teen And Up Audiences,6,3.5,Louvain,Leiden,0.9921969309215927,ARI Stability Results
+145,146,Mature,1,1.0,Louvain,Leiden,0.39436216409792013,ARI Stability Results
+147,148,Mature,1,1.5,Louvain,Leiden,0.3530145086682086,ARI Stability Results
+149,150,Mature,1,2.0,Louvain,Leiden,0.39435087003726765,ARI Stability Results
+151,152,Mature,1,2.5,Louvain,Leiden,0.4414496639014527,ARI Stability Results
+153,154,Mature,1,3.0,Louvain,Leiden,0.43997724754928447,ARI Stability Results
+155,156,Mature,1,3.5,Louvain,Leiden,0.4563139387243268,ARI Stability Results
+157,158,Mature,2,1.0,Louvain,Leiden,0.7750908275063778,ARI Stability Results
+159,160,Mature,2,1.5,Louvain,Leiden,0.5593916561876053,ARI Stability Results
+161,162,Mature,2,2.0,Louvain,Leiden,0.5681443119474997,ARI Stability Results
+163,164,Mature,2,2.5,Louvain,Leiden,0.6115673398316878,ARI Stability Results
+165,166,Mature,2,3.0,Louvain,Leiden,0.6718682280862288,ARI Stability Results
+167,168,Mature,2,3.5,Louvain,Leiden,0.7541923292771612,ARI Stability Results
+169,170,Mature,3,1.0,Louvain,Leiden,0.5063915716481688,ARI Stability Results
+171,172,Mature,3,1.5,Louvain,Leiden,0.6605079680785493,ARI Stability Results
+173,174,Mature,3,2.0,Louvain,Leiden,0.7219587196622098,ARI Stability Results
+175,176,Mature,3,2.5,Louvain,Leiden,0.7468404335654737,ARI Stability Results
+177,178,Mature,3,3.0,Louvain,Leiden,0.7860993681842346,ARI Stability Results
+179,180,Mature,3,3.5,Louvain,Leiden,0.82799540017247,ARI Stability Results
+181,182,Mature,4,1.0,Louvain,Leiden,0.5723139452079571,ARI Stability Results
+183,184,Mature,4,1.5,Louvain,Leiden,0.7298435961504876,ARI Stability Results
+185,186,Mature,4,2.0,Louvain,Leiden,0.7928534469456807,ARI Stability Results
+187,188,Mature,4,2.5,Louvain,Leiden,0.8997583696534133,ARI Stability Results
+189,190,Mature,4,3.0,Louvain,Leiden,0.9227754611396781,ARI Stability Results
+191,192,Mature,4,3.5,Louvain,Leiden,0.9101170129945026,ARI Stability Results
+193,194,Mature,5,1.0,Louvain,Leiden,0.5477369856196167,ARI Stability Results
+195,196,Mature,5,1.5,Louvain,Leiden,0.5604823328266655,ARI Stability Results
+197,198,Mature,5,2.0,Louvain,Leiden,0.8248972757101949,ARI Stability Results
+199,200,Mature,5,2.5,Louvain,Leiden,0.8086267076845591,ARI Stability Results
+201,202,Mature,5,3.0,Louvain,Leiden,0.8203544960794116,ARI Stability Results
+203,204,Mature,5,3.5,Louvain,Leiden,0.9507956483858369,ARI Stability Results
+205,206,Mature,6,1.0,Louvain,Leiden,0.8089420590546468,ARI Stability Results
+207,208,Mature,6,1.5,Louvain,Leiden,0.6560681103358519,ARI Stability Results
+209,210,Mature,6,2.0,Louvain,Leiden,0.8237848401194263,ARI Stability Results
+211,212,Mature,6,2.5,Louvain,Leiden,0.9054532087568368,ARI Stability Results
+213,214,Mature,6,3.0,Louvain,Leiden,0.8806298294168492,ARI Stability Results
+215,216,Mature,6,3.5,Louvain,Leiden,0.9294981777256773,ARI Stability Results
+217,218,Explicit,1,1.0,Louvain,Leiden,0.4159618037277367,ARI Stability Results
+219,220,Explicit,1,1.5,Louvain,Leiden,0.41389394361734216,ARI Stability Results
+221,222,Explicit,1,2.0,Louvain,Leiden,0.4845039286354868,ARI Stability Results
+223,224,Explicit,1,2.5,Louvain,Leiden,0.571279355148768,ARI Stability Results
+225,226,Explicit,1,3.0,Louvain,Leiden,0.5445326302513228,ARI Stability Results
+227,228,Explicit,1,3.5,Louvain,Leiden,0.5591780257596226,ARI Stability Results
+229,230,Explicit,2,1.0,Louvain,Leiden,0.5815278631807494,ARI Stability Results
+231,232,Explicit,2,1.5,Louvain,Leiden,0.6435176364944436,ARI Stability Results
+233,234,Explicit,2,2.0,Louvain,Leiden,0.5286640820400605,ARI Stability Results
+235,236,Explicit,2,2.5,Louvain,Leiden,0.5659172115706514,ARI Stability Results
+237,238,Explicit,2,3.0,Louvain,Leiden,0.735019426516267,ARI Stability Results
+239,240,Explicit,2,3.5,Louvain,Leiden,0.7023649313621868,ARI Stability Results
+241,242,Explicit,3,1.0,Louvain,Leiden,0.7776975772822371,ARI Stability Results
+243,244,Explicit,3,1.5,Louvain,Leiden,0.8075865616633716,ARI Stability Results
+245,246,Explicit,3,2.0,Louvain,Leiden,0.7144073228353144,ARI Stability Results
+247,248,Explicit,3,2.5,Louvain,Leiden,0.6529471168166925,ARI Stability Results
+249,250,Explicit,3,3.0,Louvain,Leiden,0.8199280067008392,ARI Stability Results
+251,252,Explicit,3,3.5,Louvain,Leiden,0.8286972761671357,ARI Stability Results
+253,254,Explicit,4,1.0,Louvain,Leiden,0.5418705328138758,ARI Stability Results
+255,256,Explicit,4,1.5,Louvain,Leiden,0.7282966071066224,ARI Stability Results
+257,258,Explicit,4,2.0,Louvain,Leiden,0.8131249663800205,ARI Stability Results
+259,260,Explicit,4,2.5,Louvain,Leiden,0.8832343267739879,ARI Stability Results
+261,262,Explicit,4,3.0,Louvain,Leiden,0.858503673594187,ARI Stability Results
+263,264,Explicit,4,3.5,Louvain,Leiden,0.9270676451050773,ARI Stability Results
+265,266,Explicit,5,1.0,Louvain,Leiden,0.598635278309577,ARI Stability Results
+267,268,Explicit,5,1.5,Louvain,Leiden,0.8503756075919555,ARI Stability Results
+269,270,Explicit,5,2.0,Louvain,Leiden,0.8271471958220824,ARI Stability Results
+271,272,Explicit,5,2.5,Louvain,Leiden,0.8518873548468627,ARI Stability Results
+273,274,Explicit,5,3.0,Louvain,Leiden,0.8709661007983551,ARI Stability Results
+275,276,Explicit,5,3.5,Louvain,Leiden,0.878533099331841,ARI Stability Results
+277,278,Explicit,6,1.0,Louvain,Leiden,0.8782370618289109,ARI Stability Results
+279,280,Explicit,6,1.5,Louvain,Leiden,0.7129850856666211,ARI Stability Results
+281,282,Explicit,6,2.0,Louvain,Leiden,0.8589975070702441,ARI Stability Results
+283,284,Explicit,6,2.5,Louvain,Leiden,0.9497068893755789,ARI Stability Results
+285,286,Explicit,6,3.0,Louvain,Leiden,0.9261970706264089,ARI Stability Results
+287,288,Explicit,6,3.5,Louvain,Leiden,0.9137630871709478,ARI Stability Results
